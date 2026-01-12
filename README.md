@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
