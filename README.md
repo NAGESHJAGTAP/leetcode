@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3453-separate-squares-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
