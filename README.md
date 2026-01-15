@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
+| [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
