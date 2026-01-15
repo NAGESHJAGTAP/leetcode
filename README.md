@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
