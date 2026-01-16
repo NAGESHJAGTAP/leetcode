@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
