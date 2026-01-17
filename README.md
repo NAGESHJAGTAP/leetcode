@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0344-reverse-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
