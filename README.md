@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0605-can-place-flowers) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
