@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0367-valid-perfect-square) |
 | [3453-separate-squares-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3454-separate-squares-ii) |
