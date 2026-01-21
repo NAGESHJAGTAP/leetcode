@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0605-can-place-flowers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Two Pointers
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
 |  |
@@ -151,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
