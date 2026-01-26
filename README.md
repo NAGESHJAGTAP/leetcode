@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0367-valid-perfect-square) |
+| [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Divide and Conquer
