@@ -4,9 +4,9 @@ public:
     int n = nums.size();
         int totalsum = (n*(n+1))/2; 
         int sum = 0;
-        for (int i = 0; i < n; i++){
-            sum += nums[i];
+        for (int i=0;i<n;i++){
+            sum+=nums[i];
         }
-        return totalsum - sum;  
+        return totalsum-sum;  
     }
 };
