@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0704-binary-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
