@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
