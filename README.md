@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
