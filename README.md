@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
