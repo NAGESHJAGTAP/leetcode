@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0504-base-7) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
