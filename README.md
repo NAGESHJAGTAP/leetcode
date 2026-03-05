@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
+| [0343-integer-break](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0504-base-7) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
