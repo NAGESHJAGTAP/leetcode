@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0504-base-7) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0796-rotate-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0504-base-7) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0415-add-strings) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
