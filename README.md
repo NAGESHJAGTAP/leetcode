@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2427-number-of-common-factors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2652-sum-multiples) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
