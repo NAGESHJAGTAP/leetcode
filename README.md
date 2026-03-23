@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0917-reverse-only-letters) |
 | [1678-goal-parser-interpretation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [2000-reverse-prefix-of-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3798-largest-even-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3798-largest-even-number) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
+| [2000-reverse-prefix-of-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
 | ------- |
