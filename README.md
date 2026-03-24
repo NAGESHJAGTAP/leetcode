@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1895-largest-magic-square) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0917-reverse-only-letters) |
 | [1678-goal-parser-interpretation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Divide and Conquer
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
 | ------- |
