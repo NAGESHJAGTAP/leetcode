@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 | [0343-integer-break](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0202-happy-number) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
