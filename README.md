@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0605-can-place-flowers) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
