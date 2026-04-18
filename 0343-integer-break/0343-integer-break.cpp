@@ -5,7 +5,6 @@ public:
         if(n==3) return 2;
 
         int maxProduct = 1;
-
         while(n > 4) {
             maxProduct *= 3;
             n -= 3;
