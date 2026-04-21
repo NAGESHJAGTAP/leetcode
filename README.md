@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0605-can-place-flowers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 | [0343-integer-break](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
