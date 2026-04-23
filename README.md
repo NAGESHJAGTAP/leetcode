@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
