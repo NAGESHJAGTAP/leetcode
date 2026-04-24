@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2652-sum-multiples) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3765-complete-prime-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3765-complete-prime-number) |
 ## Simulation
 |  |
 | ------- |
@@ -285,12 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2951-find-the-peaks) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3765-complete-prime-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2427-number-of-common-factors) |
+| [3765-complete-prime-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3765-complete-prime-number) |
 ## Greedy
 |  |
 | ------- |
