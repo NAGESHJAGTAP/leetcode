@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0707-design-linked-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -423,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0494-target-sum) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
