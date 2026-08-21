@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1895-largest-magic-square) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0494-target-sum) |
 ## Design
 |  |
@@ -461,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
