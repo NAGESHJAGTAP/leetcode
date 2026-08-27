@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3798-largest-even-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3798-largest-even-number) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
