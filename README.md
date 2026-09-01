@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2427-number-of-common-factors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2427-number-of-common-factors) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2427-number-of-common-factors) |
 | [3765-complete-prime-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3765-complete-prime-number) |
 ## Greedy
@@ -517,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1114-print-in-order) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
