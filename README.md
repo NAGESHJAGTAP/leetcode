@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## String
