@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
