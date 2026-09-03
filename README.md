@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -532,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
