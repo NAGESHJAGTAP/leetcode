@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1390-four-divisors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1390-four-divisors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Binary Search Tree
 |  |
@@ -550,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
