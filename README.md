@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0707-design-linked-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0707-design-linked-list) |
