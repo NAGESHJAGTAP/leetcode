@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0494-target-sum) |
