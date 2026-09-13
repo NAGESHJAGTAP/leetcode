@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2427-number-of-common-factors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2427-number-of-common-factors) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
