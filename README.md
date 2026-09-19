@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0389-find-the-difference) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
