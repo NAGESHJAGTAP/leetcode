@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3110-score-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3798-largest-even-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3813-vowel-consonant-score) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
+| [3498-reverse-degree-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
