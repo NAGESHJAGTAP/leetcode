@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0067-add-binary) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0412-fizz-buzz) |
