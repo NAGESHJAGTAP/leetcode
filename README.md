@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1895-largest-magic-square) |
 | [1920-build-array-from-permutation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [3498-reverse-degree-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
