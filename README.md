@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2582-pass-the-pillow](https://github.com/NAGESHJAGTAP/leetcode/tree/master/2582-pass-the-pillow) |
 | [3498-reverse-degree-of-a-string](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NAGESHJAGTAP/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
