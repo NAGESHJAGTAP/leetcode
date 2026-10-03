@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0012-integer-to-roman) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0326-power-of-three) |
 ## Quickselect
 |  |
