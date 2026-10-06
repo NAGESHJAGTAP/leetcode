@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0605-can-place-flowers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/NAGESHJAGTAP/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1323-maximum-69-number](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1323-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NAGESHJAGTAP/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Geometry
 |  |
